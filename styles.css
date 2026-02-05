@@ -1,10 +1,18 @@
 
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
 html, body {
     height: 100%; 
     margin: 0;
 }
+
 body{
     font-family: Arial, Helvetica, sans-serif;
     display: flex; 
@@ -14,10 +22,6 @@ body{
     background-color: #d5e1ef;
     margin: 0;
     min-height: 100vh;
-}
-
-p{
-    color:#848586;
 }
 
 .card{
@@ -30,15 +34,25 @@ p{
     overflow-wrap: break-word;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
     width: 100%;
-    max-width: 400px; 
-    padding: 1rem;
+    max-width: 370px; 
+    padding: 1.3rem;
     margin: 0 auto; 
     box-sizing: border-box;
 }
-
+.img-container{
+    margin: auto;
+}
 img{
-    max-width: 360px;
+    max-width: 320px;
     border-radius: 15px;
+}
+
+.description{
+    font-size: 1.1rem;
+    line-height: 28px;
+    color:#6c6e6f;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 footer{
