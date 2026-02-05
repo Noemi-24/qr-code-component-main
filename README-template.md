@@ -9,7 +9,6 @@ This challenge helped me practice building responsive layouts using HTML and CSS
 
 - [Overview](#overview)
 - [Screenshot](#screenshot)
-- [Links](#links)
 - [My Process](#my-process)
 - [Built With](#built-with)
 - [What I Learned](#what-i-learned)
@@ -66,3 +65,12 @@ body {
   align-items: center;
   min-height: 100vh;
 }
+
+---
+
+## 👩‍💻 Author
+
+- Name: Noemi Delgadillo Roldan  
+- LinkedIn: https://www.linkedin.com/in/noemidelgadilloroldan  
+- GitHub: https://github.com/Noemi-24  
+- Frontend Mentor: https://www.frontendmentor.io/profile/YOUR-USERNAME
